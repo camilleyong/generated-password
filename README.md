@@ -9,7 +9,10 @@ to stay organized, using comments, and pseudo coding.
 
 
 ## Link
+https://camilleyong.github.io/generated-password/
 
 ## GitHub
+https://github.com/camilleyong/generated-password
 
 ## Picture
+![Screenshot](./assets/Screen%20Shot%202022-08-20%20at%202.21.27%20PM.png)
